@@ -16,6 +16,7 @@ public class StreamsAPI {
 		// TODO Auto-generated method stub
 
 		System.out.println("Lets start");
+		System.out.println("Next line");
 	}
 
 }
